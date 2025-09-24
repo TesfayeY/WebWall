@@ -134,26 +134,13 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/TesfayeY/web-application-firewall.git
+git clone https://github.com/TesfayeY/WebWall.git
 ```
 ```
-cd web-application-firewall
+cd WebWall
 ```
 
 2. Install dependencies:
 
 bash
 ```
-pip install -r requirements.txt
-```
-
-3. Run the application:
-
-bash
-```
-python app.py
-```
-
-## License
-
-MIT License
