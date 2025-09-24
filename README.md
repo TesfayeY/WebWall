@@ -134,7 +134,7 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/USERNAME/web-application-firewall.git
+git clone https://github.com/TesfayeY/web-application-firewall.git
 ```
 ```
 cd web-application-firewall
