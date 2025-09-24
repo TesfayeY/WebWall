@@ -1,4 +1,4 @@
-# Advanced Web Application Firewall - Infinite Protection, Intelligent Detection
+# Web Application Firewall (WebWall) - Infinite Protection, Intelligent Detection
 
 It is an Advanced Web Application Firewall (WAF) that protects web applications from known threats such as SQL injection, Cross-Site Scripting (XSS), and other similar attacks by filtering and monitoring HTTP traffic between the application and the Internet.
 
@@ -134,10 +134,10 @@ Host: www.example.com
 
 bash
 ```
-git clone https://github.com/keusuanl-sec/Advanced-Web-Application-Firewall.git
+git clone https://github.com/USERNAME/web-application-firewall.git
 ```
 ```
-cd Advanced-Web-Application-Firewall
+cd web-application-firewall
 ```
 
 2. Install dependencies:
