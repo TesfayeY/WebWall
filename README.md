@@ -1,5 +1,7 @@
 # Web Application Firewall (WebWall) - Infinite Protection, Intelligent Detection
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Repo](https://img.shields.io/badge/GitHub-WebWall-black?logo=github)](https://github.com/TesfayeY/WebWall)
+
 It is an Advanced Web Application Firewall (WAF) that protects web applications from known threats such as SQL injection, Cross-Site Scripting (XSS), and other similar attacks by filtering and monitoring HTTP traffic between the application and the Internet.
 
 In addition to signature-based detection, it uses **machine learning-based anomaly detection** to identify obfuscated, zero-day, and previously unknown attacks by analyzing patterns and behaviors in incoming requests.
